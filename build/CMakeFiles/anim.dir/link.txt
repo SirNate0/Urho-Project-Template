@@ -1,0 +1,1 @@
+/usr/bin/c++  -mtune=generic  -std=gnu++11 -Wno-invalid-offsetof -march=native -msse3 -pthread -fdiagnostics-color=auto -O3 -DNDEBUG   CMakeFiles/anim.dir/MultipleViewports.cpp.o  -o bin/anim  /home/nathan/Projects/Urho/Urho3D/Build/lib/libUrho3D.a -ldl -lm -lrt -lGL 
